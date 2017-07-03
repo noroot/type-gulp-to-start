@@ -1,0 +1,11 @@
+{
+    "files": [
+	"main.ts"
+    ],
+
+    "compilerOptions": {
+	"experimentalDecorators": true
+    },
+    "exclude": [
+   ]
+}
